@@ -1,0 +1,219 @@
+[
+    {
+        
+        "playername": "Lachikuik",
+        "join": 2019,
+        "role": "support"
+        "picks":[{
+                "name":"Stukov",
+                "winrate":55.56,
+                "pickrate":9,
+                "banrate":10
+            },
+            {
+                "name":"Luisaile",
+                "winrate":33.33,
+                "pickrate":3,
+                "banrate":7
+            },
+            {
+                "name":"Ragnaros",
+                "winrate":100,
+                "pickrate":2,
+                "banrate":0
+            },
+            {
+                "name":"Anduin",
+                "winrate":0,
+                "pickrate":3,
+                "banrate":3
+            },
+            {
+                "name":"Malfurion",
+                "winrate":100,
+                "pickrate":2,
+                "banrate":0
+            },
+            {
+                "name":"Rehgar",
+                "winrate":0,
+                "pickrate":1,
+                "banrate":1
+            },
+            {
+                "name":"Blanchetête",
+                "winrate":100,
+                "pickrate":1,
+                "banrate":0
+            },
+            {
+                "name":"Ana",
+                "winrate":0,
+                "pickrate":1,
+                "banrate":0
+            },
+            {
+                "name":"Tyrande",
+                "winrate":50,
+                "pickrate":2,
+                "banrate":0
+            }
+        ]
+    },
+    {
+        "name": "Tarul",
+        "join": 2019,
+        "role": "Tank",
+        "picks":[{
+                "name":"Anubarak",
+                "winrate":60,
+                "pickrate":10,
+                "banrate":7
+            },
+            {
+                "name":"Muradin",
+                "winrate":37.5,
+                "pickrate":8,
+                "banrate":2
+            },
+            {
+                "name":"Johanna",
+                "winrate":50,
+                "pickrate":4,
+                "banrate":9
+            },
+            {
+                "name":"ETC",
+                "winrate":33.33,
+                "pickrate":3,
+                "banrate":0
+            },
+            {
+                "name":"Varian",
+                "winrate":0,
+                "pickrate":1,
+                "banrate":4
+            }
+        ]    
+    },
+    {
+        "name": "Arco",
+        "join": 2021,
+        "role": "Carry",
+        "picks":[{
+                "name":"Falstad",
+                "winrate":55.56,
+                "pickrate":9,
+                "banrate":9
+            },
+            {
+                "name":"Maiev",
+                "winrate":71.43,
+                "pickrate":7,
+                "banrate":13
+            },
+            {
+                "name":"Medivh",
+                "winrate":33.33,
+                "pickrate":3,
+                "banrate":3
+            },
+            {
+                "name":"Greymane",
+                "winrate":33.33,
+                "pickrate":3,
+                "banrate":3
+            },
+            {
+                "name":"Cassia",
+                "winrate":0,
+                "pickrate":3,
+                "banrate":0
+            },
+            {
+                "name":"Qhira",
+                "winrate":0,
+                "pickrate":1,
+                "banrate":0
+            },
+            {
+                "name":"Hanzo",
+                "winrate":0,
+                "pickrate":1,
+                "banrate":1
+            }
+        ]   
+    },
+    {
+        "name": "Zefklop",
+        "join": 2022,
+        "role": "Solo lane",
+        "picks":[{
+                "name":"Hogger",
+                "winrate":53.8,
+                "pickrate":14,
+                "banrate":2
+            },
+            {
+                "name":"Samuro",
+                "winrate":55.56,
+                "pickrate":9,
+                "banrate":16
+            },
+            {
+                "name":"Luisaile",
+                "winrate":66.67,
+                "pickrate":3,
+                "banrate":8
+            }
+        ]
+    },
+    {
+        "name": "Juvia",
+        "join": 2022,
+        "role": "Carry",
+        "picks":[{
+                "name":"Orphéa",
+                "winrate":42.86,
+                "pickrate":14,
+                "banrate":1
+            },
+            {
+                "name":"Li-ming",
+                "winrate":50,
+                "pickrate":8,
+                "banrate":1
+            },
+            {
+                "name":"jaina",
+                "winrate":50,
+                "pickrate":2,
+                "banrate":0
+            },
+            {
+                "name":"Lunara",
+                "winrate":100,
+                "pickrate":1,
+                "banrate":0
+            }
+        ]
+    },
+    {
+        "name": "W-whyte",
+        "join": 2022,
+        "role": "Tank",
+        "picks":[{
+                "name":"ETC",
+                "winrate":null,
+                "pickrate":0,
+                "banrate":0
+            },
+            {
+                "name":"Anubarak",
+                "winrate":null,
+                "pickrate":0,
+                "banrate":0
+            }
+        ]
+    }
+]

@@ -1,0 +1,160 @@
+footer {
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    margin-top: 20px;
+    }
+
+.team {
+    display: flex;
+    align-items: center;   
+}
+
+.player {
+    display: flex;
+    margin-top: 30px;       
+}
+
+.player img{
+    max-width: 100%;
+    width: 64px;
+    height: 64px;
+}
+
+.portrait img{
+    max-width: 100%;
+    width: 64px;
+    height: 64px;
+}
+
+.button {
+    display: none;
+}
+
+.banner  {
+    color: white;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+}
+
+#BannerShire{
+    background-image: url(./img/dragonshire.jpg);
+}
+ 
+#BannerBoE{
+    background-image: url(./img/battlefieldofeternity.jpg);
+}
+
+#BannerInfernal{
+    background-image: url(./img/infernalshrines.jpg);
+}
+
+#BannerSkyTemple{
+    background-image: url(./img/skytemple.jpg);
+    background-position: center;
+}
+
+#BannerToD{
+    background-image: url(./img/towersofdoom.jpg);
+    
+}
+
+#BannerSpider{
+    background-image: url(./img/tombofthespiderqueen.jpg);
+}
+
+body {
+    background-color: var(rgb(0, 0, 0));
+    margin: 50px;
+    margin-top: 20px;
+}
+
+.header {
+    top: 0;
+    width: 100%;
+    padding: 20px 0;
+    background-color: rgb(12, 152, 252);
+    font-size: 14px;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+  }
+
+.header li {
+    display: inline-block;
+    padding: 10px;
+  }
+  
+
+h1 {
+    font-size: 36px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-size: 28px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    font-size: 24px;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    line-height: 30px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: (rgb(255, 3, 3));
+    font-weight: normal;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table thead {
+    background-color: rebeccapurple;
+    color: rgb(0, 0, 0);
+    border: 1px solid white;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table th {
+    padding: 15px;
+}
+table td {
+    padding: 10px;
+}
+
+table tbody {
+    font-size: 18px;
+    border: 1px solid rgb(195, 194, 194);
+    font-family: Arial, Helvetica, sans-serif;
+}
+table tbody tr:nth-child(even) {
+    background-color: rgb(225, 225, 225);
+    text-align: center;
+}
+
+table tbody tr:nth-child(odd) {
+    background-color: rgb(186, 251, 247);
+    text-align: center;
+}
+td, th {
+    border: 1px solid rgb(90, 89, 89);
+}
